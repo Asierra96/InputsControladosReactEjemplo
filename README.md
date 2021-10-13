@@ -1,2 +1,2 @@
-# InputsControladosReactEjemplo
+# childrenPropsReact
 Created with CodeSandbox
